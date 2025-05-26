@@ -1,5 +1,5 @@
 ---
-title: "ini judul"
+title: "ini judul tes"
 slug: "judul-aja-tes"
 date: "2025-05-26"
 ---
