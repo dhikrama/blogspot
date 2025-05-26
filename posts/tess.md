@@ -1,7 +1,7 @@
 ---
-title: "tess"
+title: "tess aja apa benar"
 slug: "tess"
-date: "2025-05-21T19:27:32.090"
+date: "2025-05-26"
 ---
 
 tess dummy
